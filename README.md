@@ -20,7 +20,7 @@ The target must have his execution policy set to unrestricted<br>
 `Set-ExecutionPolicy -Scope Localmachine -ExecutionPolicy Unrestricted`
 
 # Why Powershell?
-<img src="./assets/powershellBetter.png" /><br>
+<img src="./data/powershellBetter.png" /><br>
 if Mel says so, than it means its true
 
 # Payload Setup
