@@ -10,6 +10,7 @@ This Powerful Discord Token grabber made in powershell grabs the following infor
 >PC Username<br>
 >OS name<br>
 >Virtual machine detection<br>
+>Minecraft Launcher Accounts<br>
 >Rusherhack alts and waypoints<br>
 >Konas alts and waypoints<br>
 >Future alts and waypoints<br>
@@ -55,3 +56,4 @@ Here is a list of steps to follow to setup this simple NodeJS server to hide the
 >Connections(full list in separated embeds)<br>
 >Applications(Only Bot ID, Client Key, Public Key and Bot Tokens)<br>
 >Injection<br>
+>MultiMc finder<br>
