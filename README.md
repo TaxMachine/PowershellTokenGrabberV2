@@ -48,7 +48,7 @@ Here is a list of steps to follow to setup this simple NodeJS server to hide the
 >Regex matching part stolen from <a href="https://github.com/Its-Vichy/Batched-Grabber">Batched</a>
 
 # Todo
->Rare Friends Info
->Payment Methods(full list in separated embeds)
->Connections(full list in separated embeds)
->Applications(Only Bot ID, Client Key, Public Key and Bot Tokens)
+>Rare Friends Info<br>
+>Payment Methods(full list in separated embeds)<br>
+>Connections(full list in separated embeds)<br>
+>Applications(Only Bot ID, Client Key, Public Key and Bot Tokens)<br>
