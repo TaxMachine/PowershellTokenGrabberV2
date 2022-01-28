@@ -43,7 +43,7 @@ Here is a list of steps to follow to setup this simple NodeJS server to hide the
 </ul>
 
 # Warning!!
-**I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY THIS GRABBER. THIS IS ONLY FOR EDUCATIONNAL PURPOSES**
+**I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY THIS GRABBER. THIS IS ONLY FOR EDUCATIONAL PURPOSES**
 
 # Credits
 >Serverfile.js blatantly skidded from my boi <a href="https://github.com/Gayarra_Frost/DiscordTokenGrabber">Fubukii</a><br>
